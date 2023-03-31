@@ -6,7 +6,7 @@
 | 2 | [EXE-файлы. Сегменты. Простейший ввод-вывод средствами DOS](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_02) | ✅ |
 | 3 | [Многомодульные программы](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_03) | ✅ |
 | 4 | [Матрицы](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_04) | ✅ |
-| 5 | Обработка чисел в различных СС |  |
+| 5 | [Обработка чисел в различных СС](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_05) | ✅ |
 | 6 | Перехват прерываний. Резидентные программы. Ввод-вывод через порты |  |
 | 7 |  |  |
 | 8 |  |  |
