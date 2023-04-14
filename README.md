@@ -7,8 +7,8 @@
 | 3 | [Многомодульные программы](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_03) | ✅ |
 | 4 | [Матрицы](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_04) | ✅ |
 | 5 | [Обработка чисел в различных СС](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_05) | ✅ |
-| 6 | Перехват прерываний. Резидентные программы. Ввод-вывод через порты |  |
-| 7 |  |  |
+| 6 | [Перехват прерываний. Резидентные программы. Ввод-вывод через порты](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_06) | ✅ |
+| 7 | Программирование для процессоров x86/x86-64. Обработка строк |  |
 | 8 |  |  |
 | 9 |  |  |
 | 10 |  |  |
