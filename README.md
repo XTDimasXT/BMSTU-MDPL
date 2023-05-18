@@ -8,8 +8,9 @@
 | 4 | [Матрицы](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_04) | ✅ |
 | 5 | [Обработка чисел в различных СС](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_05) | ✅ |
 | 6 | [Перехват прерываний. Резидентные программы. Ввод-вывод через порты](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_06) | ✅ |
-| 7 | Программирование для процессоров x86/x86-64. Обработка строк |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
-| 11 |  |  |
+| 7 | [Программирование для процессоров x86/x86-64. Обработка строк](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_07) |  |
+| 8 | [Математический сопроцессор](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_08) |  |
+| 9 | [Расширения системы команд х86](https://github.com/XTDimasXT/BMSTU-MDPL/tree/master/lab_09) |  |
+| 10 | Программа с графическим интерфейсом пользователя |  |
+| 11 | Низкоуровневое программирование под Windows/Linux. Дизассемблирование. Реверс-инжиниринг |  |
+| 12 | Программирование ARM-процессоров |  |
